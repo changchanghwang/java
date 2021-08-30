@@ -1,0 +1,14 @@
+ConditionalOperator.java
+ ConditionalOperator
+loop.java
+ loop
+Operator.java
+ Operator
+switchPrac.java
+ switchPrac
+conditional.java
+ conditional
+varable.java
+ varable
+array.java
+ array
