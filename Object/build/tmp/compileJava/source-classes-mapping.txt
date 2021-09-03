@@ -1,6 +1,12 @@
 OthersOOP.java
  OthersOOP
+StaticApp.java
+ Foo
+ StaticApp
 MyOOP.java
  MyOOP
 print.java
  print
+AccountingApp.java
+ Accounting
+ AccountingApp

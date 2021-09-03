@@ -1,12 +1,15 @@
 public class print {
-    public static String delimiter;
-    public static void A(){
-        System.out.println(delimiter);
+    public String delimiter = "";
+    public print(String delimiter){ //클래스와 동일한 method = constract method
+        this.delimiter = delimiter;
+    }
+    public void A(){
+        System.out.println(this.delimiter);
         System.out.println("A");
         System.out.println("A");
     }
-    public static void B(){
-        System.out.println(delimiter);
+    public void B(){
+        System.out.println(this.delimiter);
         System.out.println("B");
         System.out.println("B");
     }
